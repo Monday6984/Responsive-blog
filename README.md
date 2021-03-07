@@ -5,7 +5,7 @@
 The purpose of the project is to create a simple blog website that displays blog posts, recent posts and contains an about me page. I developed it to show a mobile fisrt design principle
 
 ## Screenshots
-![Responsive-blog screenshot](./images/Responsive-blog.png)
+![Responsive-blog screenshot](master/images/Responsive-blog.png)
 
 ## Technologies
 * HTML5
