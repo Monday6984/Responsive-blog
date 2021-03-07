@@ -7,6 +7,9 @@ The purpose of the project is to create a simple blog website that displays blog
 ## Screenshots
 ![Responsive-blog screenshot](./images/Responsive-blog.PNG)
 
+##[Live Demo](https://responsive-blog-website.netlify.app/index.html)
+
+
 ## Technologies
 * HTML5
 * CSS3
